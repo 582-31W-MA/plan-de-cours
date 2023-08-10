@@ -38,7 +38,7 @@ La méthode pédagogique privilégiée à l’intérieur de ce cours prend la fo
 
 Courts devoirs sur la matière vue en classe.
 
-### Travail pratique 1 (15%)
+### Travail pratique 1 (25%)
 
 > Énoncé : cours 5 \
 > Remise : cours 9
